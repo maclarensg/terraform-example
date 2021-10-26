@@ -1,0 +1,5 @@
+profile: "42dev_co_sandbox"
+region: "ap-southeast-1"
+tags:
+  env: sandbox
+  cost_center: 8879899714
